@@ -1,0 +1,1 @@
+python main.py --pair --seed=0 --exp=stage2 --pretrained_root=./checkpoints/1st/last.pth --dataroot_i=../dataset/2nd-stage/input --dataroot_t=../dataset/2nd-stage/GT  --dataroot_test=../dataset/2nd-stage/test --batch_size=6 --numworker=8 --decay_epoch=10 --epoch=20 --image_size=256

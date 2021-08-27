@@ -1,0 +1,1 @@
+python main.py --testonly --exp=stage2 --dataroot_test=../dataset/2nd-stage/test --testmodel_root=./checkpoints/2nd --numworker=8
