@@ -1,0 +1,9 @@
+.git 
+.cache 
+
+**/*.png
+**/*.jpg
+**/*.pth
+
+*.md 
+IREADME*.md
